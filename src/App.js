@@ -38,7 +38,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Changes made in the React app
+          Changes made in the React app.This is my app/home page 
         </p>
         <nav>
           <Link to="/page1">Go to Page 1</Link> 
